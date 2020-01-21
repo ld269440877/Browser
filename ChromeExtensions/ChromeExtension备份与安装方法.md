@@ -28,6 +28,7 @@
 5.  將.crx 和 .pem 两个档案移动到其他路径备份存储，例如网盘、github、Evernote
 未來如果需要重新安裝擴充功能，即使已經從 Chrome 應用程式商店下架，依然可以將 .crx 檔案拖曳到 Google Chrome 瀏覽器安裝外掛功能。
 
+<figure><center><img src="https://raw.githubusercontent.com/ld269440877/images/master/HTMLNotebook/1c83b9e2-ddd4-4f5b-8387-d26410bee4db.gif" alt="1c83b9e2-ddd4-4f5b-8387-d26410bee4db"  title="扩展程序crx-秘钥文件pem创建与备份" width="100%" height="100%" /><figcaption><font color=green>扩展程序crx-秘钥文件pem创建与备份</font></figcaption></center></figure>
 
 ## Chrome Extensions 恢复
 
